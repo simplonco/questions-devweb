@@ -3,7 +3,9 @@ Faire un dictionnaire de données (type de donnée : int, var_char, etc)k, puis 
 
 ## Pouvez-vous nous expliquer les relations entre les tables de votre projet ?
 
-
 ## Dans votre projet : pouvez-vous nous expliquer dans quel cas vous utilisez une clé étrangère, et dans quel cas vous utilisez une table pivot ? Dans le cas de la table pivot, quels seraient vos identifiants ?
 
 ## Quelle différence il y a t-il entre ORM et ODM ?
+
+## Est-ce vous qui avez réalisé ce diagramme de classe ? Expliquez le nous.
+Expliquer la nature des attributs des tables , les relations et les cardinalités et éventuelles tables pivot. Décrire les éventuels problèmes rencontrés lors de cette modélisation
