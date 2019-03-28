@@ -9,3 +9,8 @@ Faire un dictionnaire de données (type de donnée : int, var_char, etc)k, puis 
 
 ## Est-ce vous qui avez réalisé ce diagramme de classe ? Expliquez le nous.
 Expliquer la nature des attributs des tables , les relations et les cardinalités et éventuelles tables pivot. Décrire les éventuels problèmes rencontrés lors de cette modélisation
+
+## Pouvez-vous nous expliquer quelle est la différence entre Entité et Table ?
+-> Une entité = un objet (ce que l'ORM va manipuler et enregistrer dans la BDD / un objet dont on confie l'enregistrement à l'ORM s'appelle une entité) 
+
+-> Une table = ensemble de données organisées sous forme d'un tableau où les colonnes correspondent à des catégories d'information dans une BDD (les Tables caractérisent des Entités)
