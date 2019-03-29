@@ -5,3 +5,5 @@
 
 
 ## Pouvez-vous me citer trois autres CMS le plus souvent utilisé ?
+
+## Avez vous appris à installer Wordpress en local pendant votre formation, si oui comment ?
