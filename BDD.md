@@ -14,3 +14,7 @@ Expliquer la nature des attributs des tables , les relations et les cardinalité
 -> Une entité = un objet (ce que l'ORM va manipuler et enregistrer dans la BDD / un objet dont on confie l'enregistrement à l'ORM s'appelle une entité) 
 
 -> Une table = ensemble de données organisées sous forme d'un tableau où les colonnes correspondent à des catégories d'information dans une BDD (les Tables caractérisent des Entités)
+
+## Pouvez-vous écrire une requête SQL permettant de faire une jointure entre deux de vos tables ?
+
+## Qu'est-ce qu'une injection SQL ?
